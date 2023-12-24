@@ -180,7 +180,7 @@
 .description__7af71 a {
     color: rgb(80, 17, 153);
     font-weight: bold;
-    text-shadow: rgb(77, 2, 2) 0px 0px 4px, rgb(107, 0, 0) 0px 0px 4px;
+    text-shadow: rgb(41, 2, 77) 0px 0px 4px, rgb(59, 0, 107) 0px 0px 4px;
 }
 
 .lookLink__93965.colorLink_b651e5:hover .contents_fb6220 {
@@ -514,7 +514,7 @@
 }
 
 .connectContainer__8050b a {
-    color: lightcoral;
+    color: rgb(195, 128, 240);
     font-weight: 700;
 }
 
@@ -524,7 +524,7 @@
 
 .dropsHelpText__71de8 a,
 .promotionCard__8581c a {
-    color: lightcoral;
+    color: rgb(180, 128, 240);
     font-weight: 700;
 }
 
@@ -545,7 +545,7 @@
 }
 
 .connectionHeader__3c82d {
-    background-image: -webkit-repeating-linear-gradient(113deg, #000000 30%, #991121 32%);
+    background-image: -webkit-repeating-linear-gradient(113deg, #000000 30%, #5c1199 32%);
     background-color: transparent;
 }
 
@@ -1295,7 +1295,7 @@
 }
 
 .wrapper__6e669:hover .section_efc22d {
-    background-color: rgba(203, 16, 51, .26);
+    background-color: rgba(150, 16, 203, 0.26);
     border: 1px inset white;
 }
 
@@ -1393,7 +1393,7 @@
 .quickswitcher_a3d29a {
     border-radius: 5px;
     box-shadow: none;
-    background-image: -webkit-linear-gradient(56deg, #000000 20%, rgba(99, 17, 153, 0.8) 75%);
+    background-image: -webkit-linear-gradient(56deg, #000000 20%, rgba(92, 17, 153, 0.8) 75%);
     color: white;
 }
 
@@ -1810,7 +1810,7 @@ button.button__4f306 {
 }
 
 .channelTextArea__2e60f {
-    background-color: rgba(103, 17, 153, 0.43);
+    background-color: rgba(153, 17, 33, .43);
 }
 
 .button_d553e5,
@@ -2679,7 +2679,7 @@ button.button__4f306 {
 
 .reaction_b90ab0:hover {
     background-color: transparent;
-    border: 2px outset #00db00;
+    border: 2px outset #8300db;
 }
 
 .reaction_b90ab0.reactionMe_bf6909 {
@@ -2704,15 +2704,15 @@ button.button__4f306 {
 .addReactButton__59750,
 .buttonInner__2771e {
     color: silver;
-    background-color: rgba(110, 17, 153, 0.4);
+    background-color: rgba(99, 17, 153, 0.4);
     border-radius: 4px;
     border: 2px solid transparent;
 }
 
 .addReactButton__59750:hover,
 .buttonInner__2771e:hover {
-    background-color: rgba(145, 17, 204, 0.4);
-    border-color: rgb(104, 17, 204);
+    background-color: rgba(129, 17, 204, 0.4);
+    border-color: rgb(114, 17, 204);
 }
 
 .sectionDivider__68d2a {
@@ -2733,7 +2733,7 @@ button.button__4f306 {
 /* Server Boxes */
 .container-2Hi7Km,
 .container-xwOzwi {
-    background-color: rgba(92, 17, 153, 0.6);
+    background-color: rgba(80, 17, 153, 0.6);
 }
 
 /* Current Server Icon */
@@ -2759,7 +2759,7 @@ button.button__4f306 {
 
 .card-3x20HF {
     border-radius: 5px;
-    background-color: rgba(92, 17, 153, 0.5);
+    background-color: rgba(99, 17, 153, 0.5);
 }
 
 .loadingCard_a6aa0a {
