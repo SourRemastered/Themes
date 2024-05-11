@@ -1,8 +1,8 @@
 /* Main Background */
 .app_de4237 {
     background-image: url(https://s9.gifyu.com/images/SaY9L.gif);
-    background-size: 100% 100%;
-    background-position: center top;
+    background-size: cover;
+    background-position: center;
     background-color: transparent;
 }
 
